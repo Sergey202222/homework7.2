@@ -1,0 +1,7 @@
+.vs/
+homework1/homework1/
+homework2/homework2/
+homework3/homework3/
+x64/
+*.vcxproj.filters
+*.vcxproj.user
